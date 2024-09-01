@@ -1,0 +1,21 @@
+
+
+.row .col form{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    text-align: start;
+    gap: 10px;
+}
+
+.row .col form button{
+    color: #fff;
+    background-color: #204f76;
+}
+
+.row .col .form-result{
+    text-align: start;
+    padding: 10px 0px;
+}
+
